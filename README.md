@@ -6,4 +6,4 @@ Emerald logo for Emerald Project.
 
 ## License
 
-Nestjs-config-loader is [MIT licensed](LICENSE).
+Emerald logo is [MIT licensed](LICENSE).
