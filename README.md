@@ -6,4 +6,4 @@ Emerald logo for Emerald Project.
 
 ## License
 
-Emerald logo is [MIT licensed](LICENSE).
+Emerald logo is [Creative Commons Attribution 4.0 licensed](LICENSE).
