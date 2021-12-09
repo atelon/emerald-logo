@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="24.75"
-     inkscape:cy="79"
+     inkscape:zoom="1"
+     inkscape:cx="-195.5"
+     inkscape:cy="128"
      inkscape:window-width="1920"
      inkscape:window-height="995"
      inkscape:window-x="0"
@@ -127,18 +127,34 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.60487;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3.3100994,35.520039 18.446964,2.9544478 27.413393,0.32229023 45.838987,8.8889824 49.606571,17.441628 34.469663,50.007196 25.503236,52.639354 7.0776855,44.07268 Z"
-       id="path29423" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.445271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 9.589928,33.669814 21.081329,8.9505568 27.600244,6.8186793 40.754607,12.93379 43.326733,19.291854 31.835296,44.011092 25.316385,46.14297 12.162055,40.027866 Z"
-       id="path2156" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.297371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 15.516348,32.591935 8.562814,-18.411559 4.192451,-1.897076 7.877168,3.65995 1.251508,4.426463 -8.562822,18.411553 -4.192449,1.897074 -7.877151,-3.659941 z"
-       id="path2160" />
+    <g
+       id="g2806"
+       transform="rotate(24.980909,27.142287,26.200853)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.60487;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 9.4752788,44.712936 9.4430894,8.8013588 16.459093,2.6287747 l 20.319706,-0.016162 7.027043,6.1614208 0.03214,35.9115745 -7.016002,6.172584 -20.319659,0.01616 z"
+         id="path29423" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.521762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 11.929105,42.344398 -0.02758,-31.178109 6.013044,-5.3589809 17.414939,-0.014032 6.022505,5.3492899 0.02754,31.178107 -6.013041,5.358981 -17.4149,0.01403 z"
+         id="path2154" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.445271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 14.38624,40.383728 -0.02298,-27.25974 5.008734,-4.6854808 14.506264,-0.012268 5.016614,4.6770068 0.02294,27.259738 -5.008731,4.68548 -14.506231,0.01226 z"
+         id="path2156" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.371758;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 16.844858,38.63803 -0.01837,-23.771004 4.003816,-4.085829 11.595825,-0.0107 4.010115,4.078439 0.01834,23.771003 -4.003814,4.085827 -11.595799,0.0107 z"
+         id="path2158" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.297371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 19.303029,36.903863 -0.01375,-20.305346 2.999075,-3.490142 8.685904,-0.0091 3.003795,3.483828 0.01374,20.305345 -2.999074,3.49014 -8.685885,0.0091 z"
+         id="path2160" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.221199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 21.760297,35.196062 -0.0091,-16.892309 1.9947,-2.903497 5.777039,-0.0076 1.997839,2.898247 0.0091,16.892308 -1.994699,2.903496 -5.777026,0.0076 z"
+         id="path2162" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
