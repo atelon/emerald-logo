@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./emerald-logo.svg" width="160" alt="Emerald logo" />
+  <img src="./emerald-logo.svg" width="240" height="200" alt="Emerald logo" />
 </p>
 
 Emerald logo for Emerald Project.
